@@ -9,5 +9,14 @@
 
 ### In statistical approach and data mining
 
+To January 08 2022, make a list of recommendation system paers.
+From these perspectives,
+- No deep learning.
+- Several topics can be considered.
+- d
 
 
+
+
+At 14:00 January 12 2022, topic and paper might be fixed.
+When I find a good paper, upload the paper on google drive shared with professor.
