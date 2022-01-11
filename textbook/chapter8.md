@@ -64,4 +64,4 @@ $$
 ### Contextual modeling mehthods have been designed to explore this possibility.
 
 
-
+# Q. make some examples for 269 page
