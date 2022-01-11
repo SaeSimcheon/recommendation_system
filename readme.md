@@ -19,11 +19,20 @@ When I find a good paper, upload the paper on google drive shared with professor
 
 ### 0111 search
 
-- Contest-aware -> textbook
+0. Contest-aware -> textbook
 
-- Group
-- Low computing cost
-- Advanced Factorization mahince
-- clustering -> recommendation in each group
-- HMM
-- statistical approach
+1. Advanced Factorization machine
+
+- A Location-Based Factorization Machine Model for Web Service QoS Prediction
+- DiFacto — Distributed Factorization Machines
+
+3. clustering -> recommendation in each group-(clustering based recommendation system)
+- textbook -> **references**
+
+
+2. Group 
+
+4. Low computing cost
+
+5. HMM
+6. statistical approach
