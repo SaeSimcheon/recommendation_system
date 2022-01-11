@@ -79,7 +79,9 @@ $$
 
 #### Factorization machine
 
-- It can be viewed as a general tensor matrix factorization. <- check fact.
+- It includes large class of matrix factorization algorithms. <- check fact.
+- Pairwise Interaction Tensor Factorization can be viewed as its special case.
+- Tensor factorization can be considered a generalization of matrix factorization.
 
 ##### Basic idea
 - model each rating as a linear combination of interactions between input variables.
