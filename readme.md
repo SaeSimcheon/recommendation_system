@@ -57,7 +57,7 @@ which can be quite significant when the number of users or the number of items i
  - Opinions :
   - **multiple disciplines based on cluster for hybrid recommendation system? or multi-regime recommendation system?**
   
-  - **clustering ensemble based recommendation system?**
+  - **clustering ensemble based recommendation system?**\\
     **-> Cluster ensembles in collaborative filtering recommendation**
   - **OR multi clustering recommendation**
   
