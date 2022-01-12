@@ -54,18 +54,20 @@ which can be quite significant when the number of users or the number of items i
         - **coclustering**
           - **A novel Collaborative Filtering recommendation approach based on Soft Co-Clustering**
 
- -Opinions :
-  - multiple disciplines based on cluster for hybrid recommendation system?
-  - co-clustering ensemble based recommendation system?
-
+ - Opinions :
+  - **multiple disciplines based on cluster for hybrid recommendation system? or multi-regime recommendation system?**
+  
+  - **clustering ensemble based recommendation system?**
+    **-> Cluster ensembles in collaborative filtering recommendation**
+  - **OR multi clustering recommendation**
+  
 4. Low computing cost -> scalable
-
-- 
-
-
+  - cost effective -> **invalid**
+  - scalable
 7. multiple disciplines based on cluster
 
 2. Group 
 
 5. HMM
+
 6. statistical approach
