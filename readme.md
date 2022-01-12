@@ -48,7 +48,7 @@ When I find a good paper, upload the paper on google drive shared with professor
     systems via user-item subgroups. World Wide Web Conference, pp. 21–30, 2012.
       - Scalable and interpretable product recommendations via overlapping co-clustering
       - Simultaneous co-clustering and learning to address the cold start problem in recommender systems
-        - **coclustering **
+        - ** coclustering **
           - **A novel Collaborative Filtering recommendation approach based on Soft Co-Clustering**
 
 4. Low computing cost
