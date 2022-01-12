@@ -32,9 +32,8 @@ When I find a good paper, upload the paper on google drive shared with professor
 
 
 3. clustering -> recommendation in each group-(clustering based recommendation system)
-  - textbook -> **references** -> "The main problem with neighborhood-based methods is the complexity of the offline phase,
-which can be quite significant when the number of users or the number of items is very
-large."
+  - textbook -> **references** -> "The main problem with neighborhood-based methods is **the complexity of the offline phase**,
+which can be quite significant when the number of users or the number of items is very large."
     - S. Chee, J. Han, and K. Wang. Rectree: An efficient collaborative filtering method.
     Data Warehousing and Knowledge Discovery, pp. 141–151, 2001.
 
