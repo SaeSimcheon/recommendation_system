@@ -19,7 +19,9 @@ When I find a good paper, upload the paper on google drive shared with professor
 
 ### 0111 search
 
-0. Contest-aware -> textbook
+0. Context-aware -> textbook
+- factorization machine
+- tensor factorization includes matrix factorization
 
 1. Advanced Factorization machine
 
@@ -51,9 +53,14 @@ When I find a good paper, upload the paper on google drive shared with professor
         - **coclustering**
           - **A novel Collaborative Filtering recommendation approach based on Soft Co-Clustering**
 
-4. Low computing cost
+  - multiple disciplines based on cluster for hybrid recommendation system?
+
+4. Low computing cost -> scalable
+
+- 
 
 
+7. multiple disciplines based on cluster
 
 2. Group 
 
