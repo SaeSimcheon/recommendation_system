@@ -90,3 +90,7 @@ which can be quite significant when the number of users or the number of items i
   - [DeepCTR](https://github.com/shenweichen/DeepCTR)
   - [A Transformer-based recommendation system](https://keras.io/examples/structured_data/movielens_recommendations_transformers/)
 
+
+
+
+- scalable, cost-effective, clustering-based, extensible, cold start, hybrid, ensemble, extensible, implicit, time aware
