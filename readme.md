@@ -72,3 +72,21 @@ which can be quite significant when the number of users or the number of items i
 5. HMM
 
 6. statistical approach
+
+
+
+
+### 0119
+
+- A list of pages which are worth reading.
+  - Codes given by LDJ cto class.
+  - [Getting Started with a Movie Recommendation System](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system)
+  - [A Detailed Explanation of Keras Embedding Layer](https://www.kaggle.com/rajmehra03/a-detailed-explanation-of-keras-embedding-layer)
+  - [CF Based RecSys by Low Rank Matrix Factorization](https://www.kaggle.com/rajmehra03/cf-based-recsys-by-low-rank-matrix-factorization#5-\)-Using-a-Neural-Network)
+  - [A Detailed Explanation of Keras Embedding Layer](https://www.kaggle.com/rajmehra03/a-detailed-explanation-of-keras-embedding-layer)
+  - [Collaborative Filtering for Movie Recommendations](https://keras.io/examples/structured_data/collaborative_filtering_movielens/)
+  - [DeepFM](https://github.com/ChenglongChen/tensorflow-DeepFM)
+  - [NFM](https://github.com/hexiangnan/neural_factorization_machine)
+  - [DeepCTR](https://github.com/shenweichen/DeepCTR)
+  - [A Transformer-based recommendation system](https://keras.io/examples/structured_data/movielens_recommendations_transformers/)
+
