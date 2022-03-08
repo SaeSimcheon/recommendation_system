@@ -102,6 +102,10 @@ which can be quite significant when the number of users or the number of items i
   - [Bayesian PMF](https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf)
     - [Matlab code](https://github.com/faraz107/Bayesian-Probabilistic-Matrix-Factorization/blob/master/bayespmf.m)
 
+- SLIM
+  - [code](https://github.com/KarypisLab/SLIM)
+- LorSLIM
+  - [code](https://github.com/yaocheng95/Lorslim)
 ## Key words 
 
 - scalable, cost-effective, clustering-based, extensible, cold start, hybrid, ensemble, extensible, implicit, time aware
