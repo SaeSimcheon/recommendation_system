@@ -94,7 +94,9 @@ which can be quite significant when the number of users or the number of items i
   - [Nonnegative matrix factorization](https://scikit-learn.org/stable/modules/decomposition.html#nmf)
     - [Digest](https://angeloyeo.github.io/2020/10/15/NMF.html)
     - [Example](https://github.com/nicolasfguillaume/Recommender-Systems-Making-Movies-Recommendation/blob/master/MovieLens%20(NMF)%20v1.ipynb)
-
+  - [Probablistic matrix factorization](https://towardsdatascience.com/probabilistic-matrix-factorization-b7852244a321)
+    - [Using numpy](https://github.com/fuhailin/Probabilistic-Matrix-Factorization/blob/master/ProbabilisticMatrixFactorization.py)
+    - [Digest](https://hwa-a-nui.tistory.com/27)
 
 ## Key words 
 
