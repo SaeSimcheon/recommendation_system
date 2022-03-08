@@ -74,7 +74,8 @@ which can be quite significant when the number of users or the number of items i
 6. statistical approach
 
 
-- A list of pages which are worth reading.
+# A list of pages which are worth reading.
+- [Good references](https://supkoon.tistory.com/36?category=854684)
   - Codes given by LDJ cto class.
   - [Getting Started with a Movie Recommendation System](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system)
   - [A Detailed Explanation of Keras Embedding Layer](https://www.kaggle.com/rajmehra03/a-detailed-explanation-of-keras-embedding-layer)
