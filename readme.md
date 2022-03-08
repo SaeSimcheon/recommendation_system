@@ -85,6 +85,11 @@ which can be quite significant when the number of users or the number of items i
   - [NFM](https://github.com/hexiangnan/neural_factorization_machine)
   - [DeepCTR](https://github.com/shenweichen/DeepCTR)
   - [A Transformer-based recommendation system](https://keras.io/examples/structured_data/movielens_recommendations_transformers/)
+  **AutoEncoder**
+  - [neural-net-matrix-factorization](https://github.com/jstol/neural-net-matrix-factorization)
+  - [AutoRec](https://github.com/gtshs2/Autorec/blob/master/AutoRec.py)
+  - [Glocal_K](https://github.com/usydnlp/Glocal_K)
+
 
 ## Algorithm
 
