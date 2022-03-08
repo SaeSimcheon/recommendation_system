@@ -74,10 +74,6 @@ which can be quite significant when the number of users or the number of items i
 6. statistical approach
 
 
-
-
-### 0119
-
 - A list of pages which are worth reading.
   - Codes given by LDJ cto class.
   - [Getting Started with a Movie Recommendation System](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system)
@@ -90,7 +86,16 @@ which can be quite significant when the number of users or the number of items i
   - [DeepCTR](https://github.com/shenweichen/DeepCTR)
   - [A Transformer-based recommendation system](https://keras.io/examples/structured_data/movielens_recommendations_transformers/)
 
+## Algorithm
+
+- User based collaborative filtering
+- Item based collaborative filtering
+- Matrix factorization
+  - [Nonnegative matrix factorization](https://scikit-learn.org/stable/modules/decomposition.html#nmf)
+    - [Digest](https://angeloyeo.github.io/2020/10/15/NMF.html)
+    - [Example](https://github.com/nicolasfguillaume/Recommender-Systems-Making-Movies-Recommendation/blob/master/MovieLens%20(NMF)%20v1.ipynb)
 
 
+## Key words 
 
 - scalable, cost-effective, clustering-based, extensible, cold start, hybrid, ensemble, extensible, implicit, time aware
