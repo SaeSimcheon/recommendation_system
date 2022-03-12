@@ -88,12 +88,13 @@ which can be quite significant when the number of users or the number of items i
   - [A Transformer-based recommendation system](https://keras.io/examples/structured_data/movielens_recommendations_transformers/)
   - [FM](http://ethen8181.github.io/machine-learning/recsys/factorization_machine/factorization_machine.html#Reference)
   
-  **AutoEncoder**
   - [neural-net-matrix-factorization](https://github.com/jstol/neural-net-matrix-factorization)
+  **AutoEncoder**
   - [AutoRec](https://github.com/gtshs2/Autorec/blob/master/AutoRec.py)
   - [Glocal_K](https://github.com/usydnlp/Glocal_K)
-
-
+  **VAE**
+# Click through rate
+  
 ## Algorithm
 
 - User based collaborative filtering
