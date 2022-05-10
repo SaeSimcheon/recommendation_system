@@ -1,6 +1,6 @@
 ## AutoRec 
 - 20222/03/11 ~
-## A sereis of SRGNN
+## SRGNN and its variants
   - SRGNN
   - TAGNN
     - Original code : https://github.com/CRIPAC-DIG/TAGNN
